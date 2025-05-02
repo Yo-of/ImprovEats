@@ -1,9 +1,6 @@
-# ImprovEats
-ImprovEats is an AI-powered mobile app that turns a photo of your fridge or groceries into a personalized list of meal ideas. Designed with inclusivity, sustainability, and creativity in mind, it caters to dietary restrictions , personal taste, and ingredient availability—so you can cook smarter, waste less, and eat better.
-
-# 🧊 FridgeSnap – Smart Cooking Starts with What You Have
+# 🧊 ImprovEats – Smart Cooking Starts with What You Have
 ## 📦 App Description
-FridgeSnap is an AI-powered mobile app that turns a photo of your fridge or groceries into a personalized list of meal ideas. Designed with inclusivity, sustainability, and creativity in mind, it caters to dietary restrictions (Halal, Kosher, allergy-sensitive), personal taste, and ingredient availability—so you can cook smarter, waste less, and eat better.
+ImprovEats is an AI-powered mobile app that turns a photo of your fridge or groceries into a personalized list of meal ideas. Designed with inclusivity, sustainability, and creativity in mind, it caters to dietary restrictions (Halal, Kosher, allergy-sensitive), personal taste, and ingredient availability—so you can cook smarter, waste less, and eat better.
 
 ## 🚀 Key Features
 ### 🧠 Core Functionality
@@ -49,4 +46,4 @@ Community Fridge Feed
 Multi-Profile Dietary Preferences
 
 ## 💡 Inspiration
-Born from a desire to make cooking inclusive, zero-waste, and fun—FridgeSnap empowers anyone to cook a great meal with what they already have, without compromising on health, faith, or flavor.
+Born from a desire to make cooking inclusive, zero-waste, and fun—ImprovEats empowers anyone to cook a great meal with what they already have, without compromising on health, faith, or flavor.
