@@ -23,7 +23,7 @@ export default function TabTwoScreen() {
       <ThemedView style={styles.titleContainer}>
         <ThemedText type="title">Explore</ThemedText>
       </ThemedView>
-      <ThemedText>This app includes example code jednlzdn zz,dorenfkend oe nrnz annr e keoe,zparnz rkdne fks ake djredkz ornfkqnc edf,p^z scodnd zosed ddrdns rkdkd to help you get started.</ThemedText>
+      <ThemedText>This app includes example code to help you get started.</ThemedText>
       <Collapsible title="File-based routing">
         <ThemedText>
           This app has two screens:{' '}
